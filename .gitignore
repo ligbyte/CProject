@@ -1,0 +1,39 @@
+# ---> Actionscript
+# Build and Release Folders
+bin-debug/
+bin-release/
+[Oo]bj/
+[Bb]in/
+
+# Other files and folders
+.settings/
+
+# Executables
+*.swf
+*.air
+*.ipa
+*.apk
+*.bin
+*.lock
+*.json
+*.zip
+*.properties
+# Project files, i.e. `.project`, `.actionScriptProperties` and `.flexProperties`
+# should NOT be excluded as they contain compiler settings and other important
+# information for Eclipse / Flash Builder.
+
+# ---> Ada
+# Object file
+*.o
+.vs
+# Ada Library Information
+*.iml
+/local.properties
+.idea
+/build
+/captures
+.externalNativeBuild
+.cxx
+XyDevBase/bulid
+
+
