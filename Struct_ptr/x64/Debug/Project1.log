@@ -1,0 +1,5 @@
+﻿  Struct_ptr.cpp
+G:\C\CProject\Project1\Struct_ptr.cpp(17,13): warning C4312: “类型强制转换”: 从“unsigned long”转换到更大的“PEN *”
+G:\C\CProject\Project1\Struct_ptr.cpp(31,14): warning C4311: “类型强制转换”: 从“PEN *”到“unsigned long”的指针截断
+G:\C\CProject\Project1\Struct_ptr.cpp(31,14): warning C4302: “类型强制转换”: 从“PEN *”到“unsigned long”截断
+  Project1.vcxproj -> G:\C\CProject\x64\Debug\Struct_ptr.exe
